@@ -1,1 +1,14 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python files
+__pycache__/
+*.pyc
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore environment variables
+.env
 
